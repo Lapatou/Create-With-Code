@@ -26,6 +26,8 @@
 # Visual Studio cache directory
 .vs/
 
+/Don't Crush/
+
 # Gradle cache directory
 .gradle/
 
