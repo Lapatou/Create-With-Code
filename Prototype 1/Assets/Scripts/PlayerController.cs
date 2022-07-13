@@ -6,10 +6,6 @@ public class PlayerController : MonoBehaviour
 {
     public float Speed;
     public float turnSpeed;
-    void Start()
-    {
-
-    }
 
     void Update()
     {
