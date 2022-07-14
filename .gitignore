@@ -27,6 +27,7 @@
 .vs/
 
 /Don't Crush/
+/ZigZag/
 
 # Gradle cache directory
 .gradle/
